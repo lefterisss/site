@@ -25,4 +25,5 @@ events:
   - eclipse-ide
   - processing-ide 
   - learntomod
+  - spyder-ide
 ---
