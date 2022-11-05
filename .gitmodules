@@ -1,22 +1,22 @@
  
 [submodule "_gallery"]
 	path = _gallery
-	url = https://github.com/lefterisss/_gallery
+	url = https://github.com/Unixidized/_gallery
 [submodule "_quotes"]
 	path = _quotes
-	url = https://github.com/lefterisss/_quotes
+	url = https://github.com/Unixidized/_quotes
 [submodule "images"]
 	path = images
-	url = https://github.com/lefterisss/images
+	url = https://github.com/Unixidized/images
 [submodule "_includes/extras"]
 	path = _includes/extras
-	url = https://github.com/lefterisss/extras
+	url = https://github.com/Unixidized/extras
 [submodule "_includes/text"]
 	path = _includes/text
-	url = https://github.com/lefterisss/text
+	url = https://github.com/Unixidized/text
 [submodule "_bibliography"]
 	path = _bibliography
-	url = https://github.com/lefterisss/bibliography
+	url = https://github.com/Unixidized/bibliography
 [submodule "_notes"]
 	path = _notes
-	url = https://github.com/lefterisss/notes
+	url = https://github.com/Unixidized/notes
