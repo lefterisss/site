@@ -26,5 +26,4 @@ slides:
   - processing-ide 
   - learntomod
   - spyder-ide
-  - jupyter-notebook
 ---
