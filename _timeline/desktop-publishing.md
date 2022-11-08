@@ -13,5 +13,6 @@ events:
   - paper-simulation
   - xerox-cedar
   - hypercard-screen
+  - Xerox-Globalview
 ---
 

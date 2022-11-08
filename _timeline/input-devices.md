@@ -22,5 +22,6 @@ events:
   - kinect
   - leap-motion
   - nes-zapper
+  - microsoft-mouse-1983
 ---
 
