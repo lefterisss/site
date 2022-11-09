@@ -17,5 +17,6 @@ events:
   - virtual-keyboard
   - predictive-text
   - pointing-stick
+  - projection-keyboard
 ---
 

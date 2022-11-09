@@ -15,4 +15,5 @@ slides:
   - android-emulator
   - geolocation-simulation
   - pebble-hifi
+  - projection-keyboard
 ---

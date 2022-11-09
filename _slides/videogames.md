@@ -15,4 +15,5 @@ slides:
   - minecraft-end-user
   - kinect
   - nes-zapper
+  - n64
 ---
