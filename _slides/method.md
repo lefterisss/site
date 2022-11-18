@@ -18,5 +18,6 @@ slides:
   - windows1
   - windows95
   - windows8
+  - microsoft-mouse-1983
 ---
 

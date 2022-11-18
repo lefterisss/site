@@ -16,5 +16,7 @@ events:
   - apple2
   - virtual-keyboard
   - predictive-text
+  - pointing-stick
+  - projection-keyboard
 ---
 

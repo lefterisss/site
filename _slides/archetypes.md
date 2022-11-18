@@ -16,4 +16,6 @@ slides:
   - menus-on-top
   - igoefinger
   - x-window-system
+  - microsoft-mouse-1983
+  - hp-150
 ---
